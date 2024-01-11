@@ -1,0 +1,8 @@
+Flask
+Gunicorn
+python-dotenv
+#langchain
+#pypdf
+#openai
+#chromadb
+#tiktoken
